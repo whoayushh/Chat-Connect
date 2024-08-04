@@ -2,4 +2,4 @@ This is a chat Application where users can create account and send messages to t
 
 The tech Stack used in this is:  HTML, CSS, Javascript, React.js, Git, Github, Firebase, Toastify
 
-Preview Link:
+Preview Link: https://chat-box-connect.netlify.app/
